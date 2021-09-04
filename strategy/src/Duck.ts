@@ -1,6 +1,6 @@
 import { FlyBehavior } from "./flyBehaviors/FlyBehavior";
-import FlyWithWings from "./flyBehaviors/FlyWithWings";
 import { QuackBehavior } from "./quackBehaviors/Quackbehavior";
+
 
 export default abstract class Duck {
   flyBehavior: FlyBehavior;
