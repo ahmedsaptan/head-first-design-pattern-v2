@@ -1,0 +1,26 @@
+{
+  "name": "head-first-design-pattern-v2",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedsaptan/head-first-design-pattern-v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedsaptan/head-first-design-pattern-v2/issues"
+  },
+  "homepage": "https://github.com/ahmedsaptan/head-first-design-pattern-v2#readme",
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  },
+  "dependencies": {
+    "ts-loader": "^9.2.5",
+    "webpack": "^5.52.0",
+    "webpack-cli": "^4.8.0"
+  }
+}
