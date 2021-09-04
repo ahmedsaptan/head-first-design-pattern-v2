@@ -2,7 +2,8 @@
   "name": "head-first-design-pattern-v2",
   "version": "1.0.0",
   "scripts": {
-    "build": "webpack --mode=development"
+    "build": "webpack --mode=development",
+    "strategy": "ts-node ./strategy/src/index.ts"
   },
   "repository": {
     "type": "git",
